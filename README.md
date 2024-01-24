@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **ComfortZone**
+- 🔭 I’m currently working on **Job vault**
 
 - 🌱 I’m currently learning **NEXTJS and TYPESCRIPT**
 
-- 👨‍💻 All of my projects are available at [https://shivamsinghgautam.netlify.app](https://shivamsinghgautam.netlify.app)
+- 👨‍💻 All of my projects are available at [https://shivamsinghgautam.netlify.app](https://shivam1501.netlify.app/)
 
 - 💬 Ask me about **javascript and react**
 
