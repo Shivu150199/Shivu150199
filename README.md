@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **javascript and react**
 
-- 📫 How to reach me **shivamsync69@gmail.com**
+- 📫 How to reach me **shivamsinghgautam397@gmail.com**
 
 - ⚡ Fun fact **I think my eyes are like pesticides when i see code they become bug free🫡**
 
